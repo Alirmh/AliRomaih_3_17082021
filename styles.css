@@ -28,19 +28,20 @@
     {
         background-color: #F0F3F4;
         height: 270px;
+        margin-bottom: 40px;
     }
 
     .localisation-restaurant
     {
         display: flex;
         margin: 10px 0px 25px 0px;
-        padding: 15px 0px 15px 85px;
+        padding: 15px 0px 15px 70px;
         background-color: #D0D3D4;
     }
 
     .texte-localisation
     {
-        margin: 0px 0px 0px 10px;
+        margin: 0px 0px 0px 20px;
         font-family: 'Roboto-Regular';
         font-weight: bold;
     }
@@ -67,8 +68,14 @@
         border-radius: 30px;
         padding: 10px 15px 10px 15px;
         border-width: 0px;
-        background-color: #DC84B0;
         box-shadow: grey 1px 1px 5px 2px;
+        background: linear-gradient(#e269c1, #9356dc);
+        color: white;
+    }
+
+    nav
+    {
+        margin-bottom: 60px;
     }
 
     .titre-nav
