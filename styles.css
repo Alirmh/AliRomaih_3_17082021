@@ -83,7 +83,7 @@
     {
         display: flex;
         align-items: baseline;
-        margin: 0px 0px 20px 30px;
+        margin: 0px 0px 20px 32px;
         border-radius: 14px;
         border-width: 0px;
         box-shadow: #d0d3d4 1px 1px 7px 1px;
@@ -91,7 +91,7 @@
         background-color: #F4F6F7;
         max-width: 90%;
         min-width: 70%;
-        width: 84%;
+        width: 80%;
     }
 
     .numéro-btn
