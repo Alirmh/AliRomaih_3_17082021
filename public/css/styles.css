@@ -58,11 +58,8 @@
     border-width: 0px;
     box-shadow: #D0D3D4 1px 1px 5px 1px;
     background: linear-gradient(#e269c1, #9356DC);
-  }
-
-  a[href=lien-btn-explore] {
-    text-decoration: none;
     color: white;
+    font-family: "Roboto-Regular";
   }
 
   nav {
@@ -88,6 +85,7 @@
     max-width: 90%;
     min-width: 70%;
     width: 80%;
+    color: black;
   }
 
   .numéro-btn {
@@ -99,12 +97,10 @@
     color: white;
   }
 
-  a[href=lien-btn-nav] {
+  .texte-btn {
     margin: 0px 0px 0px 15px;
-    font-family: "Roboto-Regular";
     font-weight: bold;
-    text-decoration: none;
-    color: black;
+    font-family: "Roboto-Regular";
   }
 
   .fa-mobile-alt {
