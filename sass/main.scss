@@ -127,6 +127,7 @@
         margin: 0px 0px 0px 15px;
         font-weight: bold;
         font-family: "Roboto-Regular";
+        font-size: 14px;
     }
 
     .fa-mobile-alt
@@ -189,11 +190,13 @@
         color: $color-black;
         text-decoration: none;
         margin-left: 10px;
+        display: flex;
+        justify-content: space-between;
     }
 
     .fa-heart
     {
-        margin-left: 110px;
+        margin-right: 20px;
     }
 
     .fa-heart:hover

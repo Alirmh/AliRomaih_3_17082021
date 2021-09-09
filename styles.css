@@ -181,11 +181,13 @@
         color: black;
         text-decoration: none;
         margin-left: 10px;
+        display: flex;
+        justify-content: space-between;
     }
 
     .fa-heart
     {
-        margin-left: 110px;
+        margin-right: 20px;
     }
 
     .fa-heart:hover
